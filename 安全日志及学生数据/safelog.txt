@@ -1,0 +1,8 @@
+[1766924688] user=admin action=print students
+[1766924732] user=user action=unauthorized input attempt
+[1766924735] user=user action=unauthorized sort attempt
+[1766924736] user=user action=unauthorized clear attempt
+[1766924754] user=admin action=print students
+[1766924757] user=admin action=input student
+[1766924773] user=admin action=print students
+[1766924778] user=admin action=sort students by score

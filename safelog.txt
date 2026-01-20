@@ -1,0 +1,13 @@
+[1766972900] user=admin action=print students
+[1766972902] user=admin action=print students
+[1766972904] user=admin action=input student
+[1766972919] user=admin action=input student
+[1766972945] user=admin action=input student
+[1766972960] user=admin action=print students
+[1766972973] user=user action=print students
+[1766972976] user=user action=print students
+[1766972979] user=user action=unauthorized input attempt
+[1766973740] user=admin action=print students
+[1766973744] user=admin action=input student
+[1766973817] user=admin action=print students
+[1766973867] user=admin action=sort students by score
